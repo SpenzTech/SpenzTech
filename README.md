@@ -96,7 +96,7 @@ _September 2009 – July 2016_
 ## Certifications
 - **SQL Associate** (Software Development and Database Design and Administration)  
   DataCamp, (September 2024)
-- **AWS Cloud Practitioner**   
+- **AWS Certified Cloud Practitioner**   
   AWS (August 2024)
 
 ---
