@@ -1,13 +1,13 @@
 ## Amponsah Afriyie Agyare
 
-###AMPONSAH AFRIYIE AGYARE 
+### AMPONSAH AFRIYIE AGYARE 
 I am a highly motivated and a passionate young professional 
 with high regard for ethics and skills, and I love to add value, 
 and to be part of a challenging team which strives for the better 
 growth of an organization. I strive to enhance my professional 
 skills set in accordance with organizational goals. 
 
-###WORK EXPERIENCE 
+### WORK EXPERIENCE 
 Aflok Ghana (January 2022 – December 2022) 
 Social Media Manager (Remote) 
 ● Designed and Uploaded content on social media handles. 
