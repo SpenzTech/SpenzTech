@@ -1,62 +1,140 @@
-## Amponsah Afriyie Agyare
+# Amponsah Afriyie Agyare
 
-### AMPONSAH AFRIYIE AGYARE 
-I am a highly motivated and a passionate young professional 
-with high regard for ethics and skills, and I love to add value, 
-and to be part of a challenging team which strives for the better 
-growth of an organization. I strive to enhance my professional 
-skills set in accordance with organizational goals. 
+### Facilitator & Data Analyst
 
-### WORK EXPERIENCE 
-Aflok Ghana (January 2022 – December 2022) 
-Social Media Manager (Remote) 
-● Designed and Uploaded content on social media handles. 
-● Managed real estate property website. 
-● Supported customers on how to use and access company 
-website and responded to customer queries. 
-Ministry of Information (September 2020 – July 2021) 
-National Service Person 
-● Provided PC and mobile support. 
-● Installed, serviced and upgraded Windows Computers. 
-● Assisted staff in filling appraisal forms 
-● Drafted promotional, conversion and upgrade letters for 
-officers due for promotion. 
-● Prepared officers who are due for promotion to attend 
-interview. 
-Electoral Commission of Ghana (December 2020) 
-Name Reference List Officer 
-● Supported eligible voters to trace their details in the voter’s 
-register and ensured that voters do not double vote. 
-● Educated voters on how to cast their ballots. 
-Farkwan Art and Craft (August 2021 to May 2022) 
-Assistant Manager, Social Media Manager 
-● Managed the company’s finances, kept inventory and stock. 
-● Managed the company’s social media handles, supervised 
-work activities and made sure customers’ orders were delivered 
-on time. 
-Synclaire International School (August 2019 - December 
-2019) 
-Student teacher (Intern) 
-● Taught core ICT and supervised junior high school students. 
-● Installed, serviced and upgraded windows computers. 
-● Mentored students in groups and one-on-one on high school 
-preparation, helping them with tasks such as choosing their 
-choice of high school and preferred course of study. 
+---
 
-<!--
-**SpenzTech/SpenzTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📞 +233 54 141 6402  
+✉️ agyareafriyie@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
+## Personal Skills
+- Dedicated to duty, self-motivated, and innovative
+- Strong writing and oral communication
+- Experienced in Team Management
+- Team player with excellent human relations
+- Flexible and adaptable to change
+- Ability to work independently as well as on a team
 
-- 🌱 I’m currently learning ...
+---
 
-- 👯 I’m looking to collaborate on ...
+## Website Projects
+- [Abosa](https://abosa.org)
+- [Spenz Technologies](https://spenztechnologies.com)
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Professional Summary
+Professional teacher, Data Analyst, experience in Graphic Design, Data visualization, Digital Marketing, Social Media Management, IT management and support, and Virtual Assistance.  I excel as a supervisor, mentor, and instructor. I am a quick learner and passionate about new technologies and data analytical tools.
+
+---
+
+## Practical IT Skills
+- Data Analysis (PostgreSQL, Microsoft Excel, Google Sheets, PowerBI, Tableau))
+- Website Designing (WordPress)
+- Database Administration and Management (SQL, MySQL, Access)
+- Microsoft Office (Word, Excel, Access, PowerPoint)
+- Graphic Design (Photoshop)
+- Data Entry and Analysis using Excel
+- AWS Cloud Computing
+
+---
+
+## Work History
+
+### Facilitator Assistant, Central Gospel School-Adenta
+_October 2023 – Present_
+- Assist lead teacher in designing lesson plan for the term.
+- Assist lead teacher in managing classroom.
+- Assist lead teacher in delivering lessons.
+
+### Social Media Manager (Remote), Aflok Ghana
+_January 2022 – December 2022_
+- Designed and uploaded social media content.
+- Interacted with customers on various social media platforms.
+- Managed the company's real estate ecommerce website.
+- Designed and managed the company's social media campaign.
+
+### Assistant Manager || Social Media Manager, Farkwan Art and Craft
+_August 2021 – May 2022_
+- Managed the company's finances, kept inventory and stock.
+- Managed the company’s social media handles.
+- Supervised work activities and made sure customers’ orders were delivered on time.
+
+### National Service Personnel, Ministry of Information, Ghana
+_September 2020 – July 2021_
+- Provided PC and mobile support.
+- Installed, serviced and upgraded Windows Computers.
+- Assisted staff in filling appraisal forms.
+- Drafted promotional, conversion and upgrade letters for officers due for promotion.
+- Prepared officers who are due for promotion to attend interview.
+
+### Name Reference List Officer, Electoral Commission of Ghana
+_December 2020 – December 2020_
+- Supported eligible voters to trace their details in the voter’s register and ensured that voters do not double vote.
+- Educated voters on how to cast their ballots.
+
+### Classroom Teacher (Student Intern), Synclaire International School
+_September 2009 – July 2016_
+- Assisted in administrative work.
+- Taught core ICT and supervised junior high school students
+- Installed, serviced and upgraded windows computers.
+- Mentored students in groups and one-on-one on high school preparation, helping them with tasks such
+ as choosing their choice of high school and course to study.
+
+---
+
+## Education
+- **MA Information Technology Law** (Cyber Law, Data Protection, AI and Robotics)  
+  University of Ghana School of Law, Legon (September 2025)
+- **BSc ICT Education** (Software Development and Database Design and Administration)  
+  University of Education, Winneba (July 2020)
+
+---
+
+## Certifications
+- **SQL Associate** (Software Development and Database Design and Administration)  
+  DataCamp, (September 2024)
+- **AWS Cloud Practitioner**   
+  AWS (August 2024)
+
+---
+
+## Short Courses/Training
+- **Associate Data Analyst in SQL track** | DataCamp (September 2024)
+- **AWS Re/Start** | AWS (AaliTech) (August 2024)
+- **Google Business Intelligence** | Google (Coursera) (December 2023)
+- **Google Digital Marketing & E-commerce** | Google (Coursera) (December 2023)
+- **Google Data Analytics Professional Certificate** | Google (Coursera) (September 2023)
+- **Google IT Support** | Google (Coursera) (September 2023)
+
+---
+
+## National and Volunteerism Engagements
+- **Name Reference List Officer**, Electoral Commission of Ghana (Election) (December 2020 – December 2020)
+
+---
+
+## Project Accomplishments
+
+
+---
+
+## Referees
+- **Mr. Bismark Yankson**  
+  COE, Abeb InfoTech Solutions
+  📞 +233 24 754 3609 
+  ✉️ guiderebo@gmail.com
+  
+- **MR. Frank Asiedu**  
+  Principal Information Officer  
+  Information Service Department, Ministry of Information
+  📞 +233 24 468 2796  
+  ✉️ 
+
+- **Mr. Daniel Danso Essel**  
+  Lecturer  
+  University of Education, Winneba (ICT Department)  
+  📞 +233 26 433 7735  
+  ✉️ 
