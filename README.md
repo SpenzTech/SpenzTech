@@ -122,19 +122,19 @@ _September 2009 – July 2016_
 ---
 
 ## Referees
-- **Mr. Bismark Yankson**  
-  COE, Abeb InfoTech Solutions
-  📞 +233 24 754 3609
+- **Mr. Bismac Ebo Yankson**  
+  C.E.O, Abeb InfTech Solutions  
+  📞 +233 24 754 3609  
   ✉️ guiderebo@gmail.com
-  
-- **MR. Frank Asiedu**  
-  Principal Information Officer  
-  Information Service Department, Ministry of Information
+
+- **Mr. Frank Asiedu**  
+  Principal Information Officer, Ministry of Information  
   📞 +233 24 468 2796  
   ✉️ 
 
 - **Mr. Daniel Danso Essel**  
-  Lecturer  
-  University of Education, Winneba (ICT Department)  
+  Lecturer, University of Education, Winneba  
   📞 +233 26 433 7735  
   ✉️ 
+
+
