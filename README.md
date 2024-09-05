@@ -31,12 +31,12 @@ Professional teacher, Data Analyst, experience in Graphic Design, Data visualiza
 ---
 
 ## Practical IT Skills
-- Data Analysis (PostgreSQL, Microsoft Excel, Google Sheets, PowerBI, Tableau))
+- Data Analysis (PostgreSQL, Microsoft Excel, Google Sheets, PowerBI, Tableau, Looker Studio)
 - Website Designing (WordPress)
-- Database Administration and Management (SQL, MySQL, Access)
+- Database Administration and Management (SQL)
 - Microsoft Office (Word, Excel, Access, PowerPoint)
-- Graphic Design (Photoshop)
-- Data Entry and Analysis using Excel
+- Graphic Design (Photoshop, Canvas)
+- Virtual Assistance
 - AWS Cloud Computing
 
 ---
@@ -48,6 +48,12 @@ _October 2023 – Present_
 - Assist lead teacher in designing lesson plan for the term.
 - Assist lead teacher in managing classroom.
 - Assist lead teacher in delivering lessons.
+
+### Data Visualization Asociate (Remote Internship), Excellerate
+_July 2024 – July 2024_
+- Used Google Sheet to perform tasks like removing duplicates, trimming blanks and removing null values.
+- Created EDA Report.
+- Used Looker studio to create Visualization for cleaned dataset.
 
 ### Social Media Manager (Remote), Aflok Ghana
 _January 2022 – December 2022_
@@ -86,7 +92,7 @@ _September 2009 – July 2016_
 ---
 
 ## Education
-- **MA Information Technology Law** (Cyber Law, Data Protection, AI and Robotics)  
+- **MA Information Technology Law** (Cyber Law, Data Protection, AI and Robotics Law)  
   University of Ghana School of Law, Legon (September 2025)
 - **BSc ICT Education** (Software Development and Database Design and Administration)  
   University of Education, Winneba (July 2020)
@@ -94,7 +100,7 @@ _September 2009 – July 2016_
 ---
 
 ## Certifications
-- **SQL Associate** (Software Development and Database Design and Administration)  
+- **SQL Associate** (Data analysis using PostgreSQL)  
   DataCamp, (September 2024)
 - **AWS Certified Cloud Practitioner**   
   AWS (August 2024)
@@ -112,7 +118,7 @@ _September 2009 – July 2016_
 ---
 
 ## National and Volunteerism Engagements
-- **Name Reference List Officer**, Electoral Commission of Ghana (Election) (December 2020 – December 2020)
+**Name Reference List Officer**, Electoral Commission of Ghana (Election) (December 2020 – December 2020)
 
 ---
 
