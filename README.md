@@ -124,7 +124,7 @@ _September 2009 – July 2016_
 ## Referees
 - **Mr. Bismark Yankson**  
   COE, Abeb InfoTech Solutions
-  📞 +233 24 754 3609 
+  📞 +233 24 754 3609
   ✉️ guiderebo@gmail.com
   
 - **MR. Frank Asiedu**  
