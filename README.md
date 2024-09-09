@@ -109,7 +109,7 @@ _September 2009 – July 2016_
 
 ## Short Courses/Training
 - **Associate Data Analyst in SQL track** | DataCamp (September 2024)
-- **AWS Re/Start** | AWS (AaliTech) (August 2024)
+- **AWS Re/Start** | AWS (AmaliTech) (August 2024)
 - **Google Business Intelligence** | Google (Coursera) (December 2023)
 - **Google Digital Marketing & E-commerce** | Google (Coursera) (December 2023)
 - **Google Data Analytics Professional Certificate** | Google (Coursera) (September 2023)
@@ -129,7 +129,7 @@ _September 2009 – July 2016_
 
 ## Referees
 - **Mr. Bismac Ebo Yankson**  
-  C.E.O, Abeb InfTech Solutions  
+  C.E.O, Abeb InfoTech Solutions  
   📞 +233 24 754 3609  
   ✉️ guiderebo@gmail.com
 
