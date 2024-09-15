@@ -47,52 +47,52 @@ Professional teacher, Data Analyst, experience in Graphic Design, Data visualiza
 
 ### Assistant Facilitator, Central Gospel School-Adenta
 _October 2023 – Present_
-- I assist the lead teacher in designing lesson plan for the term.
-- I assist the lead teacher in managing classroom.
-- I assist the lead teacher in delivering lessons.
+- Assist the lead teacher in designing lesson plan for the term.
+- Assist the lead teacher in managing classroom.
+- Assist the lead teacher in delivering lessons.
 
 ### Data Visualization Asociate (Remote Internship), Excellerate
 _July 2024 – July 2024_
-- I Used Google Sheet to perform tasks like removing duplicates, trimming blanks and removing null values.
-- I Created EDA Report.
-- I Used Looker studio to create Visualization for cleaned dataset.
+- Used Google Sheet to perform tasks like removing duplicates, trimming blanks and removing null values.
+- Created EDA Report.
+- Used Looker studio to create Visualization for cleaned dataset.
 
 ### Data Analyst (Remote Internship), MeriSkill
 _October 2023 – January 2024_
-- I used Microsoft Excel, SQL and other tools to inspect, clean, transform, validate, and interpret collections of data with regard to the business goals of the company. I used different tools as demanded by the situation and the current data.
-- I ensured that the data sources and repositories provided consistent and reliable data.
-- I used Microsoft Excel and Power BI to prepare reports in the form of visualizations such as graphs, charts, and dashboards.
+- Used Microsoft Excel, SQL and other tools to inspect, clean, transform, validate, and interpret collections of data with regard to the business goals of the company. I used different tools as demanded by the situation and the current data.
+- Ensured that the data sources and repositories provided consistent and reliable data.
+- Used Microsoft Excel and Power BI to prepare reports in the form of visualizations such as graphs, charts, and dashboards.
 
 ### Social Media Manager (Remote), Aflok Ghana
 _January 2022 – December 2022_
-- I designed and uploaded social media content on the company's social media handles.
-- I interacted with customers on various social media platforms, responded to their queries, and supported them on how to use and access the company’s website.
-- I managed the company's e-commerce real estate website.
-- I designed and managed the company's social media campaign.
+- Designed and uploaded social media content on the company's social media handles.
+- Interacted with customers on various social media platforms, responded to their queries, and supported them on how to use and access the company’s website.
+- Managed the company's e-commerce real estate website.
+- Designed and managed the company's social media campaign.
 
 ### Assistant Manager || Social Media Manager, Farkwan Art and Craft
 _August 2021 – May 2022_
 - Managed the company's finances, kept inventory and stock.
-- I designed and uploaded content on the company’s social media handles and responded to customer queries.
-- I supervised work activities and made sure customers’ orders were delivered on time.
+- Designed and uploaded content on the company’s social media handles and responded to customer queries.
+- Supervised work activities and made sure customers’ orders were delivered on time.
 
 ### National Service Personnel, Ministry of Information, Ghana
 _September 2020 – July 2021_
-- I provided PC and mobile support, by installing, servicing and upgrading windows computers.
-- I assisted staff in filling appraisal forms.
-- I drafted promotional, conversion and upgrade letters for officers due for promotion.
-- I prepared officers who are due for promotion to attend interview.
+- Provided PC and mobile support, by installing, servicing and upgrading windows computers.
+- Assisted staff in filling appraisal forms.
+- Drafted promotional, conversion and upgrade letters for officers due for promotion.
+- Prepared officers who are due for promotion to attend interview.
 
 ### Name Reference List Officer, Electoral Commission of Ghana
 _December 2020 – December 2020_
-- I supported eligible voters to trace their details in the voter’s register and ensured that voters do not double vote.
-- I educated voters on how to cast their ballots.
+- Supported eligible voters to trace their details in the voter’s register and ensured that voters do not double vote.
+- Educated voters on how to cast their ballots.
 
 ### Classroom Teacher (Student Intern), Synclaire International School
 _September 2009 – July 2016_
 - Assisted in administrative work.
-- I taught core ICT and supervised junior high school students.
-- I installed, serviced and upgraded windows computers.
+- Taught core ICT and supervised junior high school students.
+- Installed, serviced and upgraded windows computers.
 - Mentored students on high school preparation, by helping them with tasks such
  as choosing their choice of high school and prefered course of study.
 
