@@ -31,19 +31,23 @@ Professional teacher, Data Analyst, experience in Graphic Design, Data visualiza
 ---
 
 ## Practical IT Skills
-- Data Analysis (PostgreSQL, Microsoft Excel, Google Sheets, PowerBI, Looker Studio)
+- Data Analysis (Microsoft Excel, PowerBI)
 - AWS Cloud Services
 - Virtual Assistance (Calendaring, Organizational and Communication skill)
 - Digital Marketing
 - Graphic Design (Photoshop, Canva)
 - Website Design and CMS (WordPress)
-- Database Administration and Management (SQL)
 - Microsoft Office (Word, Excel, Access, PowerPoint)
+- Workflow (Asana)
 - Customer Support
 
 ---
 
 ## Work History
+### Data Analyst (Remote Internship), Only Quality Data (OQD)
+_March 2025 – Present_
+- Used Microsoft Excel and Power query to clean and visualize data.  
+- Used Microsoft Power Bi to Visualize data. 
 
 ### Assistant Facilitator, Central Gospel School-Adenta
 _October 2023 – Present_
@@ -109,6 +113,8 @@ _September 2009 – July 2016_
 ---
 
 ## Certifications
+- **Certified Workflow Specialist**  
+  Asana, (2025 - 2026)
 - **SQL Associate** (Data analysis using PostgreSQL)  
   DataCamp, (September 2024 - September 2026)
 - **AWS Certified Cloud Practitioner**   
