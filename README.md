@@ -1,6 +1,6 @@
 # Amponsah Afriyie Agyare
 
-### Facilitator & Data Analyst
+### Facilitator & GRC Analyst
 
 ---
 
